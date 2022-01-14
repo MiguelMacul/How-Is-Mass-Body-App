@@ -1,0 +1,49 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.HowIsMassBody" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.HowIsMassBody.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.HowIsMassBody.Boton">
+        <item name="backgroundColor">@color/ColorBoton</item>
+        <item name="colorPrimary">@color/ColorBoton</item>
+    </style>
+    <style name="Theme.HowIsMassBody.Back">
+        <item name="backgroundColor">@color/white</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="backgroundTint">@color/ColorBoton</item>
+    </style>
+    <style name="Theme.HowIsMassBody.OPTION">
+        <item name="android:colorFocusedHighlight">@color/white</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorControlActivated">@color/white</item>
+
+        <item name="colorOnBackground">@color/white</item>
+
+    </style>
+    <style name="Theme.HowIsMassBody.item">
+        <item name="color">@color/white</item>
+        <item name="colorOnBackground">@color/white</item>
+        <item name="colorControlHighlight">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorBackgroundFloating">@color/white</item>
+        <item name="colorButtonNormal">@color/white</item>
+        <item name="colorControlActivated">@color/white</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorSwitchThumbNormal">@color/white</item>
+    </style>
+    <style name="Theme.HowIsMassBody.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.HowIsMassBody.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

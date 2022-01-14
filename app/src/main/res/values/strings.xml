@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Body Mass</string>
+
+    <!-- Titulares de fragments-->
+    <string name="tituleframe">Body mass</string>
+    <string name="tituleform">Calculemos  tu masa corporal</string>
+    <!-- Form-->
+    <string name="plaseholderinpuit1">Unidad de medida de la altura</string>
+    <string name="plaseholderinpuit2">Altura</string>
+    <string name="plaseholderinpuit3">Unidad de medida del peso</string>
+    <string name="plaseholderinpuit4">Peso</string>
+    <string name="Buttontext">Calcular</string>
+    <!-- Label message-->
+    <string name="LabelMessage1">Indice de masa corporal</string>
+    <string name="LabelMessage2">Composición corporal</string>
+    <string name="BottonBack">Regresar</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+<!-- Head of fragment-->
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string-array name="Unidade_medida_peso">
+        <item>Libras (Lb)</item>
+        <item>Kilogramos  (KG)</item>
+    </string-array>
+    <string-array name="Unidade_medida_distancia">
+        <item>Centrimetros (CM)</item>
+        <item>Metros (M)</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

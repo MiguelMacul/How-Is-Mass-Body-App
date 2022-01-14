@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/drawable/bascula_ico_background.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/drawable/ic_back_24.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2890625" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/drawable/my_drawable.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/layout/background_dialog.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/layout/dropdown.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/layout/fragment_charging_screen.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/layout/fragment_form_cal_mass.xml" value="0.25" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/layout/fragment_load.xml" value="0.1" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/layout/fragment_result_mass.xml" value="0.25" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/layout/fragment_second.xml" value="0.2727272727272727" />
+        <entry key="..\:/Users/MikeMacuil/AndroidStudioProjects/HowIsMassBody/app/src/main/res/menu/menu_main.xml" value="0.14270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
